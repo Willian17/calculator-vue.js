@@ -1,8 +1,11 @@
-# calculadora
+# Calculadora com Vue.js
+
+![calculadora](https://user-images.githubusercontent.com/53010824/78510605-e0ce2100-776c-11ea-96a8-5c9a50711b06.png)
+
 
 ## Project setup
 ```
-npm install
+npm install 
 ```
 
 ### Compiles and hot-reloads for development
@@ -20,5 +23,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
